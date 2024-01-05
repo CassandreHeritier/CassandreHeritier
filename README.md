@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CassandreHeritier
 - 👀 I’m interested in bioinformatics, mountain and nature !
-- 🌱 I’m currently learning Laravel and Singularity.
+- 🌱 I’m currently working in the field of DNA environmental.
 - 💞️ I’m looking to collaborate on bioinformatics projects.
 - 📫 How to reach me ...
 
